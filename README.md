@@ -19,5 +19,5 @@ A machine learning project that predicts whether a patient will miss their appoi
 - `README.md` – Project details
 
 ## 🧠 Built By
-Dharmik Shah – Healthcare + AI product learner  
-[Your LinkedIn Profile Here]
+Dharmik Shah
+
